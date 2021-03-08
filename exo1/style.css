@@ -1,0 +1,22 @@
+h1 {
+    color: green;
+    font-size: 50px;
+}
+
+ol {
+    color: red;
+    font-weight: bold;
+}
+
+#text {
+    border-style: dotted;
+    size: 4px;
+    color: lightblue;
+    opacity: 0.5;
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    height: 200px;
+}

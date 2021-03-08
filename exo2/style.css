@@ -1,0 +1,29 @@
+h1 {
+    color: blue;
+    font-style: bold;
+}
+
+.highlight {
+    background-color: yellow;
+    font-size: italic;
+}
+
+#main-menu {
+    border-radius: 10px;
+    border-color: black;
+    border-style: groove;
+}
+
+.highlight.highlight {
+    color: blue
+}
+
+article p {
+    border-style: dotted;
+    border-color: red;
+}
+
+article h2 {
+    font-size: 0.5px;
+    font-style: capitalyze;
+}
